@@ -1,2 +1,3 @@
-# color-flipper
-A simple color flipping website
+# COLOR FLIPPER
+
+## A simple color flipping website.
